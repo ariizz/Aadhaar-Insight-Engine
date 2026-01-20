@@ -1,0 +1,10 @@
+# Ignore the large data folders
+data/api_data_aadhar_enrolment/
+data/api_data_aadhar_demographic/
+data/api_data_aadhar_biometric/
+
+# Ignore the actual CSV files anywhere inside data
+data/**/*.csv
+
+# But keep the data folder structure and the .gitkeep file
+!data/.gitkeep

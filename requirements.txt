@@ -1,0 +1,8 @@
+pandas
+matplotlib
+plotly
+kaleido
+nbformat
+ipython
+jinja2>=3.0.0
+markupsafe
